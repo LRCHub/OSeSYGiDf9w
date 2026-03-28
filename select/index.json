@@ -2,8 +2,16 @@
   "version": 1,
   "base_track": "うそつきマカロン（feat. 重音テト）",
   "base_artist": "暴飲暴食P",
-  "createdAt": "2026-02-27T09:59:30.899264Z",
+  "createdAt": "2026-03-28T12:14:40.545968Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "うそつきマカロン (feat. 重音テト)",
+      "artist": "暴飲暴食P",
+      "has_synced": true,
+      "path": "select/01_うそつきマカロン_(feat._重音テト)_暴飲暴食P.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
@@ -11,6 +19,15 @@
       "artist": "暴飲暴食P",
       "has_synced": false,
       "path": "select/pl_01_うそつきマカロン_(feat._重音テト)_暴飲暴食P.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "うそつきマカロン（feat. 重音テト）",
+      "artist": "暴飲暴食P",
+      "has_synced": false,
+      "path": "select/localdb_01_うそつきマカロン(feat._重音テト)_暴飲暴食P.txt",
+      "repo_name": "OSeSYGiDf9w"
     }
   ]
 }
